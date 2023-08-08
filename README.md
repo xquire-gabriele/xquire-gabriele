@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xquire-gabriele, CTO of xquire.ai
+- 👋 Hi, I’m Gabriele, CTO of xquire.ai
 - 👀 I’m interested in generative AI and making the world a better place
 
 <!---
